@@ -13,18 +13,23 @@ export const Carousel = () => {
   const items = [
     {
       id: 1,
-      src: 'https://res.cloudinary.com/swed-dev/image/upload/v1675076659/babjww1dold9mlcejxi0.avif',
+      src: 'https://res.cloudinary.com/swed-dev/image/upload/v1675076659/nxs9uoe3brluvxtdf7mr.avif',
       alt: 'Image 1',
     },
     {
       id: 2,
-      src: 'https://res.cloudinary.com/swed-dev/image/upload/v1675076659/babjww1dold9mlcejxi0.avif',
+      src: 'https://res.cloudinary.com/swed-dev/image/upload/v1676290990/ng50xzdvambz3n5wtsko.jpg',
       alt: 'Image 2',
     },
     {
       id: 3,
-      src: 'https://res.cloudinary.com/swed-dev/image/upload/v1675076659/babjww1dold9mlcejxi0.avif',
+      src: 'https://res.cloudinary.com/swed-dev/image/upload/v1676291029/rpzw7quvw0t3clyleelw.jpg',
       alt: 'Image 3',
+    },
+    {
+      id: 4,
+      src: 'https://res.cloudinary.com/swed-dev/image/upload/v1675245985/pabafasa3hrzo3u9j0wy.jpg',
+      alt: 'Image 4',
     },
   ];
 

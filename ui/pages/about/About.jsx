@@ -9,7 +9,7 @@ import { RoutePaths } from '../../common/general/RoutePaths';
 const about = [
   {
     name: 'Simon Agbey',
-    imageUrl: 'https://res.cloudinary.com/swed-dev/image/upload/v1671704063/akzg47uu2qsfo9aqad0p.png',
+    imageUrl: 'https://res.cloudinary.com/swed-dev/image/upload/v1673197829/o3awlruuuotjfsjecd2f.jpg',
     bio:
       'FullStack web developing, specialized in Web App.',
     twitterUrl: 'https://twitter.com/SimonAgbey3',
